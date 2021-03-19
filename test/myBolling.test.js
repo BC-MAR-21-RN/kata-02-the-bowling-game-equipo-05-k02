@@ -4,7 +4,7 @@ test('is less than 10', () => {
     expect(firstThrew()).toBeLessThanOrEqual(10);
 });
 
-test('is less than 10', () => {
+test('is less than 9', () => {
     expect(secondThrew()).toBeLessThanOrEqual(9);
 });
 
